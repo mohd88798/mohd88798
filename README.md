@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Mohammad Zaid Ansari (@mohd88798)
+- 👋 Hi, My name is Mohammad Zaid Ansari
 - 👀 I’m interested in Web Developement, app development and AI
 - 🌱 I’m currently learning Java 
 
